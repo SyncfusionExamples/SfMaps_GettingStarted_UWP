@@ -1,6 +1,6 @@
 # Getting Started with UWP Map (SfMaps)
 
-This repository contains sample for how to get started with the [Syncfusion UWP Map](https://help.syncfusion.com/uwp/map/getting-started) control.
+This repository contains sample to getting started with the [Syncfusion UWP Map](https://help.syncfusion.com/uwp/map/getting-started) control.
 
 ## Syncfusion controls
 
