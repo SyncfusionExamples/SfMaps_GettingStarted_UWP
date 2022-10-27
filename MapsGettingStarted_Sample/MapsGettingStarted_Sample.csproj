@@ -161,7 +161,7 @@
       <Version>6.2.7</Version>
     </PackageReference>
     <PackageReference Include="Syncfusion.SfMaps.UWP">
-      <Version>18.1.0.59</Version>
+      <Version>*</Version>
     </PackageReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
